@@ -2,7 +2,7 @@
 
 Note: I wanted to practice pandas library and learn how to implement it, so I made this script.
 
-How to use this script:
+How to run this script:
 
 1. Have `python` installed.
 2. A text editor or IDE

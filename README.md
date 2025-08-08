@@ -4,5 +4,7 @@ Note: I wanted to practice pandas library and learn how to implement it, so I ma
 
 How to use this script:
 
-1. `git clone` this repository
-2. run the script with `python ./src/script.py`
+1. Have `python` installed.
+2. A text editor or IDE
+3. `git clone` this repository
+4. run the script with `python ./src/script.py`

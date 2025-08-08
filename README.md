@@ -6,5 +6,5 @@ How to run this script:
 
 1. Have `Python` installed
 2. A text editor or IDE
-3. Run this command: `git clone` to clone this repository
+3. Run this command: `git clone https://github.com/infiniteloop22/sort-.xlsx-files-script.git` to clone this repository
 4. Run the script with `python ./src/script.py`
